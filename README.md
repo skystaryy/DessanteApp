@@ -1,9 +1,7 @@
 # dessante
-
-A new Flutter project.
+Dessante App is online skincare market. - Project for Final Exam Mobile Programming
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
