@@ -1,5 +1,9 @@
 # dessante
 Dessante App is online skincare market. - Project for Final Exam Mobile Programming using Flutter - Dart.
+Group 4
+- Cahya Nandita - 085022008
+- Ananda Dea - 085022010
+- Mulyati - 085022011
 
 ## Getting Started
 This project is a starting point for a Flutter application.
