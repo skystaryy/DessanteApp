@@ -1,5 +1,5 @@
 # dessante
-Dessante App is online skincare market. - Project for Final Exam Mobile Programming
+Dessante App is online skincare market. - Project for Final Exam Mobile Programming using Flutter - Dart.
 
 ## Getting Started
 This project is a starting point for a Flutter application.
